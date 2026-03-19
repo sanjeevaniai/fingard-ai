@@ -1,4 +1,4 @@
-# Fin Guard AI — Credit Scoring Platform
-Financial services AI system for credit scoring and loan approval recommendations.
-Risk tier: High Risk
+# Edu Guard AI — Learning Recommendations
+AI-powered personalized learning system for K-12 students.
+Risk tier: Limited Risk
 Jurisdiction: United States
