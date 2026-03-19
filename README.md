@@ -1,4 +1,4 @@
-# Edu Guard AI — Learning Recommendations
-AI-powered personalized learning system for K-12 students.
-Risk tier: Limited Risk
-Jurisdiction: United States
+# Life Sci Guard AI — Clinical Trial Matching
+AI system for clinical trial patient matching and research coordination.
+Risk tier: High Risk
+Jurisdiction: EU and US
